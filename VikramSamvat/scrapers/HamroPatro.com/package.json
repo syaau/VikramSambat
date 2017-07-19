@@ -1,0 +1,14 @@
+{
+  "name": "scrape-hamro-patro-dates",
+  "version": "1.0.0",
+  "description": "Use API from hamropatro.com to convert english date to Nepali",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scrape.js"
+  },
+  "author": "Ranjan Shrestha",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}

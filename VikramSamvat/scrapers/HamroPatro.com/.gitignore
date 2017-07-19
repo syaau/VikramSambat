@@ -1,0 +1,3 @@
+# don't include the generated file
+# A sample is available inside samples/data.map
+/data.map
